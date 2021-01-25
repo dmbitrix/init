@@ -1,0 +1,18 @@
+{
+  "name": "bitrix/init",
+  "type": "library",
+  "description": "Initial package",
+  "homepage": "https://github.com/dmbitrix/init",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry Medvedev",
+      "email": "d.medvedev@bitrix.ru",
+      "homepage": "http://1c-bitrix.ru",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
